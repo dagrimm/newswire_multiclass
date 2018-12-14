@@ -9,4 +9,4 @@ Optimizer is rmsprop.
 Loss is computed with categorical crossentropy. 
 Metric is accuracy. 
 
-Learning rate is plotted with Matplotlib - of course you could add a callback for Tensorflow. 
+Learning rate is plotted with Matplotlib - of course you could add a callback for TensorBorad. 
